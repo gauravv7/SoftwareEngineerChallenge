@@ -1,3 +1,4 @@
+# 1. Solution of Coding task:
 # How to run the project
 
 Project is setup as a java project with Maven build system(using quickstart architype).
@@ -11,6 +12,9 @@ a helper script is added to
  - run `mvn clean test` to run the project
 
 to use the script, simple run the script: `./run-project.sh`
+
+# 2. Solution of Design Question: Design A Google Analytic like Backend System.
+This is given in a ms-word doc file, present in the root directory of the solution.
 
 # Software Engineer Challenge
 1. Coding task:
