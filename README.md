@@ -1,3 +1,17 @@
+# How to run the project
+
+Project is setup as a java project with Maven build system(using quickstart architype).
+java version used to build project: 1.7
+maven version used to build project: 3.6.0
+
+Test are added. 
+
+a helper script is added to 
+ - detect java installation
+ - run `mvn clean test` to run the project
+
+to use the script, simple run the script: `./run-project.sh`
+
 # Software Engineer Challenge
 1. Coding task:
 
